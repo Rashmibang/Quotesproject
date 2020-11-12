@@ -1,0 +1,23 @@
+.card-body{
+  font-family:KacstDecorative ;
+background-image: url("https://www.itl.cat/pngfile/big/288-2882387_beautiful-desktop-backgrounds-11700-beautiful-backgrounds-for-computer.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+
+}
+.flex{
+  display:flex;
+  flex-direction: row;
+  list-style-type: none;
+
+}
+li{
+  margin:5px;
+}
+.card{
+  width: 50%;
+  margin:auto;
+  margin-top:20px;
+
+}

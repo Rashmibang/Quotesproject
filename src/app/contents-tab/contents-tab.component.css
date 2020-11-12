@@ -1,0 +1,27 @@
+.Datablock{
+  display:flex;
+  justify-content: center;
+}
+li{
+  list-style: none;
+
+}
+.col{
+  text-align: center;
+
+}
+button{
+  margin-top: 10px;
+}
+.shadow-lg{
+  width:40%;
+justify-content: space-around;
+  border:1px solid grey;
+  margin-top: -30px;
+}
+.Randomquote{
+  border:1px solid grey;
+width:90%;
+  margin:auto;
+
+}

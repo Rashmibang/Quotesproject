@@ -1,0 +1,35 @@
+li{
+  list-style: none;
+  margin:auto;
+  text-align: center;
+}
+.shadow-lg{
+  padding:20px;
+  width:90%;
+  margin:auto;
+  margin-top: 20px;
+  background-color: white;
+
+}
+i{
+  width:30px;
+
+}
+#first{
+background-color: dodgerblue;
+  padding:10px;
+}
+#second{
+  background-color: blue;
+  padding:10px;
+}#third{
+   background-color: brown;
+   padding:10px;
+ }
+ #aligned{
+   margin-top: 10px;
+ }
+p{
+  text-align: center;
+  padding:10px;
+}

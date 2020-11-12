@@ -1,0 +1,7 @@
+.card-body{
+  text-align: center;
+  margin:auto;
+  background-color: lightskyblue;
+  border:2px solid white;
+  width:60%;
+}

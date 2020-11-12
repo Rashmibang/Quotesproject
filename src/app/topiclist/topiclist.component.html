@@ -1,0 +1,6 @@
+<div class="card-body" *ngFor="let Topic of listedTopics"
+     [routerLink]="['/populartopics', 'topics', Topic]">
+  {{Topic}}
+</div>
+
+
